@@ -1,0 +1,8 @@
+customtkinter
+mss
+numpy
+imageio[ffmpeg]
+pillow
+screeninfo
+pyaudio
+soundcard
